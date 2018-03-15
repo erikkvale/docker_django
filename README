@@ -1,0 +1,5 @@
+This project is a walkthrough of the basic configuration steps to getting a Django/PostgreSQL
+app deployed using Docker and more specifically Docker Compose.
+
+This exact tutorial can be found here:
+https://docs.docker.com/compose/django/#define-the-project-components
